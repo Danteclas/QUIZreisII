@@ -9,6 +9,12 @@ const data = [
         tip: "II Reis 1.9",
       },
       {
+        question: "Qual foi o final de Geazi o servo de Elizeu?",
+        options: ["morreu como um profeta renomado ", "Terminou seus dias leproso , e com maldição de lepra para sua descendência", "Depois de servir Elizeu , se tornou muito rico", "Virou um profeta como Elizeu"],
+        answer: "Terminou seus dias leproso , e com maldição de lepra para sua descendência",
+        tip: "II Reis 5.27",
+      },
+      {
         question: "Com que idade Josias começou a reinar ?",
         options: ["20 anos ", "18 anos ", "30 anos", "8 anos"],
         answer: "8 anos",
@@ -17,7 +23,7 @@ const data = [
       {
         question: "Quem foi Merodaque-Baladã?",
         options: ["Rei da Persia ", "Rei da Babilônia", "Principe do Egito", "Rei dos Filisteus"],
-        answer: "Homem de Deus",
+        answer: "Rei da Babilônia",
         tip: "II Reis 20.12",
       },
       {
@@ -29,7 +35,7 @@ const data = [
       },
       {
         question: "Quem era Nabucodonozor?",
-        options: ["Rei da S´ria", "Capitão de Israel ", "Guerreiro Filisteu", "Rei da Babilônia"],
+        options: ["Rei da Síria", "Capitão de Israel ", "Guerreiro Filisteu", "Rei da Babilônia"],
         answer: "Rei da Babilônia",
         tip: "II Reis 25.1",
       },
@@ -50,6 +56,18 @@ const data = [
         options: ["no décimo quarto ano do rei Ezequias ", "no quarto ano do rei Aquis", "O povo fugiu", "Houve lamento e choro em Israel"],
         answer: "no décimo quarto ano do rei Ezequias",
         tip: "II Reis 18.13",
+      },
+      {
+        question: "Quantos filhos teve o rei Acabe?",
+        options: ["40 filhos ", "10 filhos", "70 filhos", "95 filhos"],
+        answer: "70 filhos",
+        tip: "II Reis 10.1",
+      },
+      {
+        question: "Quem foi o exterminador da casa de  Acabe?",
+        options: ["Jefté ", "Naamã", "Jeú", "Elizeu"],
+        answer: "Jeú",
+        tip: "II Reis 10",
       },
       {
         question: "O que fez o rei Ezequias quando o Senhor disse: 'Põe em ordem a tua casa, porque morrerás e não viverás'. ?",
@@ -82,6 +100,12 @@ const data = [
         options: ["Cinco anos de idade", "Vinte anos de idade", "sessenta anos de idade"],
         answer: "Vinte anos de idade",
         tip: "2REIS 16.1",
+      },
+      {
+        question: "Tinha Manassés doze anos de idade quando começou a reinar e reinou cinquenta e cinco anos em Jerusalém. Sua mãe chamava-se Hefzibá. 2Fez ele ",
+        options: ["fez o que era mau perante ao Senhor ", "fez o que era reto ao Senhor em tudo", "fez grandes proezas , um aqueduto e trouxe água para Júda."],
+        answer: "fez o que era mau perante ao Senhor",
+        tip: "2REIS 21.1,2",
       },
       {
         question: "E sucedeu que, derrubando um deles uma viga, o ferro caiu na água; e clamou,......... ",
@@ -119,14 +143,14 @@ const data = [
         tip: "Dica está em 2 Reis kkk",
       },
       {
-        question: "E orou Eliseu, e disse: Senhor, peço-te que lhe abras os olhos, para que veja.E o Senhor abriu os olhos do moço, e viu,e eis que o monte estava cheio de cavalos e carros de fogo, em redor de Eliseu.Onde está escrito?",
+        question: "Achando-se em Samaria setenta filhos de Acabe, Jeú escreveu cartas e as enviou a Samaria, aos chefes da cidade, aos anciãos e aos tutores dos filhos de Acabe, dizendo:;Onde está escrito",
         options: [
-          "2 Reis 1:1",
-          "2 Reis 6:17",
-          "2 Reis 25:30",
-          "2 Reis 18:40",
+          "3 Reis 1:1",
+          "1 Reis 6:17",
+          "2 Reis 10:1",
+          "2 Reis 30:40",
         ],
-        answer: "2 Reis 6:17",
+        answer: "2 Reis 10:1",
         tip: "Dica está em 2 Reis kkk",
       },
       {

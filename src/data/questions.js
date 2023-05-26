@@ -1,4 +1,4 @@
-const data = [
+/* const data = [
   {
     question: "O que é Vanilla JavaScript?",
     options: [
@@ -33,3 +33,4 @@ const data = [
 ];
 
 export default data;
+ */
