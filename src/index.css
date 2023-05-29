@@ -40,3 +40,11 @@ button:hover {
     rgba(132, 53, 222, 1) 100%
   );
 }
+@media(max-width:450px) {
+  body,
+html {
+  min-height: 80vh;
+  height: 90%;
+  background-color: #1c1c1c;
+}
+}

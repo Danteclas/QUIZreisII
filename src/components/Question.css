@@ -17,3 +17,28 @@
   border: 2px solid #fff;
   margin: 1rem;
 }
+/* RESPONSIVO */
+
+@media(max-width:450px) {
+  #question {
+    background-color: #8de;
+    border-radius: 1rem;
+    padding: 2rem;
+    width: 75%;
+  }
+  
+  #question p {
+    margin-bottom: 1rem;
+  }
+  
+  #question h2 {
+    font-size:1.2rem;
+   
+   /* margin-bottom:5px; */ 
+  }
+  
+  #question button {
+    border: 2px solid #fff;
+    margin: 2rem;
+  }
+}
