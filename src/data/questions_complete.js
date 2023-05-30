@@ -9,6 +9,23 @@ const data = [
         tip: "II Reis 1.9",
       },
       {
+        question: "Naamã, comandante do exército do rei da Síria, era grande homem diante do seu senhor e de muito conceito, porque por ele o Senhor dera vitória à Síria; era ele herói da guerra, porém ele era...",
+        options: [
+          "Cego",
+          "Gago",
+          "Leproso",
+          "Perveso",
+        ],
+        answer: "Leproso",
+        tip: "2 Reis 5:1",
+      },
+      {
+        question: "O rei Manassés foi um bom rei ?",
+        options: ["Fez ele o que era mau perante o Senhor ,sacrificou seu filho a deuses", "Fez ele o que era bom perante o Senhor todos os seus dias", "Foi um bom rei, fez o povo andar presença do Senhor", "Foi mediano bom"],
+        answer: "Homem de Deus",
+        tip: "II Reis 1.9",
+      },
+      {
         question: "Qual foi o final de Geazi o servo de Elizeu?",
         options: ["morreu como um profeta renomado ", "Terminou seus dias leproso , e com maldição de lepra para sua descendência", "Depois de servir Elizeu , se tornou muito rico", "Virou um profeta como Elizeu"],
         answer: "Terminou seus dias leproso , e com maldição de lepra para sua descendência",
@@ -30,7 +47,7 @@ const data = [
         question: "Qual as caracteristicas de Elias?",
         options: ["Alto e forte guerreiro", "Era um peludo, e com os lombos cingidos de couro", "Era queimado do sol , e tinha veste de profeta",
           "Era baixo e careca"],
-        answer: "Era um peludo, e com os lombos cingidos de courof",
+        answer: "Era um peludo, e com os lombos cingidos de couro",
         tip: "II Reis 1.8",
       },
       {
@@ -54,7 +71,7 @@ const data = [
       {
         question: "Quando Senaqueribe tomou as cidades de Judá?",
         options: ["no décimo quarto ano do rei Ezequias ", "no quarto ano do rei Aquis", "O povo fugiu", "Houve lamento e choro em Israel"],
-        answer: "no décimo quarto ano do rei Ezequias",
+        answer: "no décimo quarto ano do rei Ezequias ",
         tip: "II Reis 18.13",
       },
       {
@@ -104,13 +121,13 @@ const data = [
       {
         question: "Tinha Manassés doze anos de idade quando começou a reinar e reinou cinquenta e cinco anos em Jerusalém. Sua mãe chamava-se Hefzibá. 2Fez ele ",
         options: ["fez o que era mau perante ao Senhor ", "fez o que era reto ao Senhor em tudo", "fez grandes proezas , um aqueduto e trouxe água para Júda."],
-        answer: "fez o que era mau perante ao Senhor",
-        tip: "2REIS 21.1,2",
+        answer: "fez o que era mau perante ao Senhor ",
+        tip: "2REIS 21.2",
       },
       {
         question: "E sucedeu que, derrubando um deles uma viga, o ferro caiu na água; e clamou,......... ",
 
-        options: ["e disse: Ai, meu senhor! ele era emprestado.", "meu pai, precisamos de outro ferro", "o machado caiu na agúa nos ajude!!", "o ferro cai na água , vai atrasar o serviço"],
+        options: ["e disse: Ai, meu senhor! ele era emprestado", "meu pai, precisamos de outro ferro", "o machado caiu na agúa nos ajude!!", "o ferro cai na água , vai atrasar o serviço"],
         answer: "e disse: Ai, meu senhor! ele era emprestado",
         tip: " 2 Reis 6:5",
       },
@@ -120,12 +137,7 @@ const data = [
         answer: "profeta Eliseu",
         tip: "2 Reis 6:12",
       },
-      {
-        question: "E disse um dos servos: Não, ó rei meu senhor; mas o ......, que está em Israel, faz saber ao rei de Israel as palavras que tu falas no teu quarto de dormir.",
-        options: ["profeta Isaías", "sarcedote Natã", "profeta Eliseu", " profeta Elias"],
-        answer: "profeta Eliseu",
-        tip: "2 Reis 6:12",
-      },
+
     ],
   },
   {
@@ -164,17 +176,7 @@ const data = [
         answer: "2 Reis 25:7",
         tip: "Dica está em 2 Reis kkk",
       },
-      {
-        question: "Naamã, comandante do exército do rei da Síria, era grande homem diante do seu senhor e de muito conceito, porque por ele o Senhor dera vitória à Síria; era ele herói da guerra, porém ele era...",
-        options: [
-          "Cego",
-          "Gago",
-          "Leproso",
-          "Perveso",
-        ],
-        answer: "Leproso",
-        tip: "2 Reis 5:1",
-      },
+
       {
         question: "Então, Eliseu lhe mandou um mensageiro, dizendo: Vai, lava-te sete vezes no Jordão, e a tua carne será restaurada, e ficarás limpo.Onde está escrito?",
         options: [
@@ -184,6 +186,17 @@ const data = [
           "1 Crônicas 18:50",
         ],
         answer: "2 Reis 5:10",
+        tip: "Dica está em 2 Reis kkk",
+      },
+      {
+        question: "Mudou-lhe as vestes do cárcere, e Joaquim passou a comer pão na sua presença todos os dias da sua vida. 30E da parte do rei lhe foi dada subsistência vitalícia, uma pensão diária, durante os dias da sua vida..Onde está escrito?",
+        options: [
+          "2 Reis 25:29",
+          "2 Reis 2:90",
+          "2 Reis 25:54",
+          "2 Reis 40:1",
+        ],
+        answer: "2 Reis 25:29",
         tip: "Dica está em 2 Reis kkk",
       },
 
