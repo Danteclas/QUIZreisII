@@ -17,7 +17,7 @@
   border-radius:20px;
   border: 2px solid cyan;
 }
-/* responsividade */
+ /* responsividade */
 @media(max-width:450px) {
   #question {
     background-color: #8de;
@@ -44,3 +44,4 @@
     margin: 2rem;
   }
 }
+ 

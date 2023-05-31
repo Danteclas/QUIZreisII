@@ -20,7 +20,7 @@ const data = [
           "Cego",
           "Gago",
           "Leproso",
-          "Perveso",
+          "Aleijado",
         ],
         answer: "Leproso",
         tip: "2 Reis 5:1",
@@ -167,7 +167,7 @@ const data = [
         tip: "Dica está em 2 Reis kkk",
       },
       {
-        question: "Achando-se em Samaria setenta filhos de Acabe, Jeú escreveu cartas e as enviou a Samaria, aos chefes da cidade, aos anciãos e aos tutores dos filhos de Acabe, dizendo:;Onde está escrito",
+        question: "Achando-se em Samaria setenta filhos de Acabe, Jeú escreveu cartas e as enviou a Samaria, aos chefes da cidade, aos anciãos e aos tutores dos filhos de Acabe, dizendo:,Onde está escrito?",
         options: [
           "3 Reis 1:1",
           "1 Reis 6:17",
