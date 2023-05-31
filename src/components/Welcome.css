@@ -14,4 +14,33 @@
 
 #welcome img {
   margin-top: 2rem;
+  border-radius:20px;
+  border: 2px solid cyan;
+}
+/* responsividade */
+@media(max-width:450px) {
+  #question {
+    background-color: #8de;
+    border-radius: 1rem;
+    padding: 2rem;
+    width: 70%;
+  }
+  
+  #question p {
+    margin-bottom: 1rem;
+  }
+  
+  #question h2 {
+    font-size:1.2rem;
+   
+   
+  }
+  #welcome img{
+    width:82%;
+  }
+  
+  #question button {
+    border: 2px solid #fff;
+    margin: 2rem;
+  }
 }

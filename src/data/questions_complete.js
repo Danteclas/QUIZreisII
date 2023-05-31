@@ -9,6 +9,12 @@ const data = [
         tip: "II Reis 1.9",
       },
       {
+        question: "Quem foi o sucessor de  Elias?",
+        options: ["profeta Natã", "profeta Eli", "profeta Elizeu", "profeta Isaías"],
+        answer: "profeta Elizeu",
+        tip: "II Reis 2",
+      },
+      {
         question: "Naamã, comandante do exército do rei da Síria, era grande homem diante do seu senhor e de muito conceito, porque por ele o Senhor dera vitória à Síria; era ele herói da guerra, porém ele era...",
         options: [
           "Cego",
@@ -89,7 +95,7 @@ const data = [
       {
         question: "O que fez o rei Ezequias quando o Senhor disse: 'Põe em ordem a tua casa, porque morrerás e não viverás'. ?",
         options: ["E ele disse: Senhor entrego minha alma , me prepara Senhor!!", "Então, virou Ezequias o rosto para a parede e orou ao Senhor",
-          "Ficou com muito medo de modo que morreu log em seguida", "Duvidou do profeta que enviou a mensagem do Senhor."],
+          "Ficou com muito medo de modo que morreu em seguida", "Duvidou do profeta que enviou a mensagem do Senhor."],
         answer: "Então, virou Ezequias o rosto para a parede e orou ao Senhor",
         tip: "2REIS 20.1,2",
       },
@@ -134,6 +140,12 @@ const data = [
       {
         question: "E disse um dos servos: Não, ó rei meu senhor; mas o ......, que está em Israel, faz saber ao rei de Israel as palavras que tu falas no teu quarto de dormir.",
         options: ["profeta Isaías", "sarcedote Natã", "profeta Eliseu", " profeta Elias"],
+        answer: "profeta Eliseu",
+        tip: "2 Reis 6:12",
+      },
+      {
+        question: "Tomou o manto que Elias lhe deixara cair, feriu as águas e disse: Onde está o Senhor, ............ Quando feriu ele as águas, elas se dividiram para um e outro lado, e Eliseu passou.",
+        options: ["Que não aparece?", "Deus de Elias?", "deus de Baal?", " Deus de Abraão?"],
         answer: "profeta Eliseu",
         tip: "2 Reis 6:12",
       },
@@ -198,6 +210,17 @@ const data = [
         ],
         answer: "2 Reis 25:29",
         tip: "Dica está em 2 Reis kkk",
+      },
+      {
+        question: "O que ocorreu quando um tangedor(músico) começou a tocar?",
+        options: [
+          "Elias foi cheio do poder do Senhor",
+          "O rei Acabe foi tomado em mistério",
+          "Veio o poder de Deus sobre Eliseu",
+          "O Saul foi acalmado dos espiritos que o pertubavam",
+        ],
+        answer: "Veio o poder de Deus sobre Eliseu",
+        tip: "2 Reis 3:15",
       },
 
     ],

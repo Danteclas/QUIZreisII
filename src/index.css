@@ -31,14 +31,19 @@ button {
   );
   border-radius: 3rem;
   border: none;
+  transition: transform 1000ms;
 }
 
-button:hover {
+button:hover{
   background: linear-gradient(
     90deg,
     rgba(184, 84, 232, 1) 0%,
     rgba(132, 53, 222, 1) 100%
   );
+
+}
+button:hover,button:focus-visible{
+  transform:translateY(-0.75rem)
 }
 @media(max-width:450px) {
   body,
