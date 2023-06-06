@@ -9,6 +9,18 @@ const data = [
         tip: "II Reis 1.9",
       },
       {
+        question: "Quem era o filho de Amoz?",
+        options: ["Sarcedote Natã ", "Profeta Isaías", "Profeta Elias", "rei Acabe"],
+        answer: "Profeta Isaías",
+        tip: "II Reis 19.2",
+      },
+      {
+        question: "Quem mandou Naamã mergulhar no Rio Jordao ?",
+        options: ["Profeta Eliseu  ", "Profeta Isaías", "Profeta Elias", "Profeta Jeremias"],
+        answer: "Profeta Eliseu",
+        tip: "(2reis 5:10)",
+      },
+      {
         question: "Quem foi o sucessor de  Elias?",
         options: ["profeta Natã", "profeta Eli", "profeta Elizeu", "profeta Isaías"],
         answer: "profeta Elizeu",
@@ -145,8 +157,8 @@ const data = [
       },
       {
         question: "Tomou o manto que Elias lhe deixara cair, feriu as águas e disse: Onde está o Senhor, ............ Quando feriu ele as águas, elas se dividiram para um e outro lado, e Eliseu passou.",
-        options: ["Que não aparece?", "Deus de Elias?", "deus de Baal?", " Deus de Abraão?"],
-        answer: "profeta Eliseu",
+        options: ["Que não aparece?", "Deus de Elias?", "Deus de Elizeu?", " Deus de Abraão?"],
+        answer: "Deus de Elias?",
         tip: "2 Reis 6:12",
       },
 
@@ -221,6 +233,53 @@ const data = [
         ],
         answer: "Veio o poder de Deus sobre Eliseu",
         tip: "2 Reis 3:15",
+      },
+      {
+        question: "O que a viuva disse que tinha em casa para o Profeta ?e onde está escrito?",
+        options: [
+          "Uma botija com um pouco de  azeite.2 Reis 4.2",
+          "Uma botija com um pouco de  azeite.2 Reis 18.5",
+          "Uma botija com óleo.1 Reis 18.5 ",
+          "Uma botija com óleo.2 Reis 8.8",
+        ],
+        answer: "Uma botija com um pouco de  azeite.2 Reis 4.2",
+        tip: " Um é bom ler a Bíblia",
+      },
+      {
+        question: "Qual Profeta operou um milagre depois de morto ? ",
+        options: [
+          "Eliseu (2 Reis 13:21)",
+          "Elias (2 Reis 1:21)",
+          "Isaías (2 Reis 3:1)",
+          "Ezequiel (2 Reis 20:1)",
+
+        ],
+        answer: "Eliseu (2 Reis 13:21)",
+        tip: " Seus ossos ressucitou um morto",
+      },
+      {
+        question: "Segundo o Livro de II REIS ;Qual foi o rei mais jovem a reinar ?  ",
+        options: [
+          "Joàs (2 Reis 11: 21)",
+          "Joacaz (2 Reis 1:21)",
+          "Josías (2 Reis 3:1)",
+          "Jeoaquim (2 Reis 25:1)",
+
+        ],
+        answer: "Joàs (2 Reis 11: 21)",
+        tip: " sem dica",
+      },
+      {
+        question: "Qual benefício que a mulher sunamita fez para o Profeta Elizeu ?  ",
+        options: [
+          "Deu-lhe uma boa oferta e vestes",
+          "Deu-lhe uma comida ",
+          "Fez um pequeno quarto e a mobiliou",
+          "Ajudou em seu ministério com grande soma de dinheiro",
+
+        ],
+        answer: "Fez um pequeno quarto e a mobiliou",
+        tip: " (2Reis 4:8,9)",
       },
 
     ],
