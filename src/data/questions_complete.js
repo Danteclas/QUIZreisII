@@ -16,7 +16,7 @@ const data = [
       },
       {
         question: "Quem mandou Naamã mergulhar no Rio Jordao ?",
-        options: ["Profeta Eliseu  ", "Profeta Isaías", "Profeta Elias", "Profeta Jeremias"],
+        options: ["Profeta Eliseu", "Profeta Isaías", "Profeta Elias", "Profeta Jeremias"],
         answer: "Profeta Eliseu",
         tip: "(2reis 5:10)",
       },
@@ -40,7 +40,7 @@ const data = [
       {
         question: "O rei Manassés foi um bom rei ?",
         options: ["Fez ele o que era mau perante o Senhor ,sacrificou seu filho a deuses", "Fez ele o que era bom perante o Senhor todos os seus dias", "Foi um bom rei, fez o povo andar presença do Senhor", "Foi mediano bom"],
-        answer: "Homem de Deus",
+        answer: "Fez ele o que era mau perante o Senhor ,sacrificou seu filho a deuses",
         tip: "II Reis 1.9",
       },
       {
@@ -75,7 +75,7 @@ const data = [
         tip: "II Reis 25.1",
       },
       {
-        question: "Quem era Senaqueribe?",
+        question: "Quem foi Senaqueribe?",
         options: ["Rei da Síria", "Rei de Israel ", "General Turco", "Rei da Babilônia"],
         answer: "Rei da Síria",
         tip: "II Reis 18.13",
